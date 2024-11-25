@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+button {
+    margin-right: 5px;
+}
+
+#grafico-gastos,
+#grafico-entradas {
+    max-width: 300px;
+    max-height: 300px;
+    margin: 20px auto;
+}
